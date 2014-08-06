@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Turtle::Application.config.secret_key_base = '4d463cf7289d42ca092c75474c5ab80115a2ca84fe13bd8307bd1127e32b4efe528808b013378492d30e3f611be48a50d8e82dd3a9f412a0a0457dd85ca88fd5'
+Turtle::Application.config.secret_key_base = '3d463cf7289d42ca092c75474c5ab80115a2ca84fe13bd8307bd1127e32b4efe528808b013378492d30e3f611be48a50d8e82dd3a9f412a0a0457dd85ca88fd5'

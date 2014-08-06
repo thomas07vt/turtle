@@ -17,6 +17,7 @@
 
 # Ignore application configuration
 /config/application.yml
+/config/intializers/secret_token.rb
 /.bundle
 /*.sublime*
 /db/*.sqlite3
